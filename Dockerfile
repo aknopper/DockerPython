@@ -1,3 +1,4 @@
+# Follows the Guide located at https://docs.docker.com/language/python/
 # syntax=docker/dockerfile:1
 # Specifies the parser directive (aka syntax) to be used when parsing. This is pointing to the latest release of the version 1 syntax
 
